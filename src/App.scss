@@ -4,7 +4,11 @@ $primary-color: #ffd700;
 
 @font-face {
   font-family: 'Helvetica Neue';
-  src: url('./assets/fonts/helvetica-neu.ttf') format('ttf');
+  src: url('./assets/fonts/helvetica-neu.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Icomoon';
+  src: url('./assets/fonts/icomoon.ttf') format('ttf');
 }
 @font-face {
   font-family: 'La Belle Aurore';
@@ -13,6 +17,14 @@ $primary-color: #ffd700;
 @font-face {
   font-family: 'Coolvetica';
   src: url('./assets/fonts/CoolveticaRg-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'fa-brands';
+  src: url('./assets/fonts/fa-brands-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'fa-regular';
+  src: url('./assets/fonts/fa-regular-400.woff2') format('woff2');
 }
 
 input,
