@@ -1,5 +1,4 @@
 import {
-  faAngular,
   faCss3,
   faGitAlt,
   faHtml5,

@@ -1,12 +1,9 @@
 import './Logo.scss'
 import LogoS from '../../../assets/images/Harsh/H_logo-removebg-1.png'
 import { useEffect, useRef } from 'react'
-import { DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin'
-import gsap from 'gsap-trial'
 
 const Logo = () => {
   const bgRef = useRef()
-  const outlineLogoRef = useRef()
   const solidLogoRef = useRef()
 
   useEffect(() => {
