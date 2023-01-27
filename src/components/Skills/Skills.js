@@ -64,12 +64,13 @@ export const Skills = () => {
             Visit my
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://linkedin.com/in/harsh-anand-3446141b0"
             >
               LinkedIn{' '}
             </a>
             profile for more details. Also you can checkout my resume on this
-            <a target="_blank" href="https://bit.ly/3XXty3j">
+            <a target="_blank" rel="noreferrer" href="https://bit.ly/3XXty3j">
               link
             </a>
             .
