@@ -77,3 +77,39 @@ h2 {
         color: #333;
     }
 }
+
+@media screen and (max-width: 1200px) {
+    .tags,
+    .home-page h1::before,
+    .home-page h1::after {
+        display: none;
+    }
+
+    .home-page {
+        .text-zone {
+            position: initial;
+            width: 100%;
+            transform: none;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .flat-button {
+            width: 125px;
+            float: none;
+            display: block;
+            margin: 20px auto 0 auto;
+        }
+
+        .logo-container {
+            position: relative;
+            width: 150px;
+            height: auto;
+            top: 40px;
+            right: 0;
+            box-sizing: border-box;
+            margin: auto;
+            left: 0;
+        }
+    }
+}

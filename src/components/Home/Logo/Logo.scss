@@ -1,7 +1,7 @@
 .logo-container {
     z-index: 0;
-    width: 400px;
-    height: 609px;
+    width: 500px;
+    height: 600px;
     position: absolute;
     top: 0;
     right: 15%;
@@ -22,5 +22,11 @@
         opacity: 0;
         z-index: 1;
         animation: flip 1s 5s ease;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .solid-logo {
+        animation: zoomInDown 1s 5s ease !important;
     }
 }

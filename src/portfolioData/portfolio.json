@@ -1,52 +1,46 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/travel_advisor.png",
+      "title": "Travel Advisor",
+      "description": "ReactJs, MaterialUI, Google Maps",
+      "url": "http://ha-traveladvisor.netlify.app"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/Weather-App.png",
+      "title": "Progressive Web Weather App",
+      "description": "ReactJs, CSS",
+      "url": "http://velvety-daifuku-ee02d3.netlify.app"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/chitChat.jpg",
+      "title": "ChitChat app",
+      "description": "NodeJs, Express, SocketIO",
+      "url": "http://github.com/HarshAn119/ChitChat"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/random-recipe.jpg",
+      "title": "Random Recipe",
+      "description": "Vanilla JavaScript, CSS",
+      "url": "http://harshan119.github.io/recipe_App"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/face_smart_brains.png",
+      "title": "SmartBrain-Face Capture",
+      "description": "ReactJs, NodeJs, Tachyons",
+      "url": "http://github.com/HarshAn119/facerecognition-smrt-brain"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/OpenAI-Image-Genrator.png",
+      "title": "OpenAI-Image Generator",
+      "description": "NodeJs, OpenAI",
+      "url": "http://openai-image-generator-l206.onrender.com"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
-    },
-    {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/projects/Pokedex.png",
+      "title": "Pokedex",
+      "description": "NextJs",
+      "url": "http://pokedex-next-js-rho.vercel.app"
     }
   ]
 }

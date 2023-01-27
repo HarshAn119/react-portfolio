@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
 import { Link } from 'react-router-dom'
-import LogoTitle from '../../assets/images/Harsh/H_logo-removebg-1.png'
+import LogoTitle from '../../assets/images/Harsh/oie_97PprImbV4xQ.png'
 import AnimatedLetters from '../AnimatedLetters/AnimatedLetters'
 import './Home.scss'
 import Logo from './Logo/Logo'

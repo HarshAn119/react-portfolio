@@ -89,7 +89,7 @@
             content: '';
             background: linear-gradient(
                 180deg,
-                #ffd700,
+                #f7efc1,
                 #000
             );
             position: absolute;
@@ -111,6 +111,28 @@
         &:hover .content {
             bottom: 0;
             background: transparent;
+        }
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .container.portfolio-page {
+        width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+
+        h1.page-title {
+            margin: 20px 0px 50px 20px;
+        }
+
+        .images-container  {
+            display: block;
+        }
+
+        .image-box {
+            height: 200px;
+            max-width: 100%;
+            margin-bottom: 10px;
         }
     }
 }
